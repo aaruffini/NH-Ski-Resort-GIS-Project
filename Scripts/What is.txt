@@ -1,0 +1,2 @@
+This folder is for the python that I wrote to create this website. 
+While this site is a static site, to create the maps I utlized Python.
