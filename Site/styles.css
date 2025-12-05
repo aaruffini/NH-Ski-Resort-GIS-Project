@@ -81,7 +81,7 @@ p1 {
 /*Source: https://pajasevi.github.io/CSSnowflakes/*/
 .snowflake {
   color: #fff;
-  font-size: 2em;
+  font-size: 1em;
   font-family: Arial, sans-serif;
   text-shadow: 0 0 5px #000;
 }
