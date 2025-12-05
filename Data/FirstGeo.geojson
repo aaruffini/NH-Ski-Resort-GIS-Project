@@ -1,0 +1,613 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.6984,
+                    44.1565
+                ]
+            },
+            "properties": {
+                "Name": "Cannon Mountain",
+                "Address": "2650 Profile Rd",
+                "City": "Franconia ",
+                "Zip Code": "3580",
+                "Plus Code": "5842+HJ Franconia, New Hampshire",
+                "Lift Ticket Price": "$99",
+                "Rental Price": "$69",
+                "Total Trails": 98,
+                "Total Skiable Acres": 287,
+                "Vertical Drop": 2180,
+                "Highest Peak": 4080,
+                "Green Trails": 16.0,
+                "Blue Trails": 51.0,
+                "Black Trails": 32.0,
+                "Double Black Trails": 0.0,
+                "Terrain Parks": 3,
+                "Glades": 23,
+                "Night Skiing": "Special Event Only",
+                "Indy Pass": true,
+                "Sources": "https://www.cannonmt.com/mountain-stats https://www.cannonmt.com/trails-lifts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.6214,
+                    44.036
+                ]
+            },
+            "properties": {
+                "Name": "Loon Mountain",
+                "Address": "60 Loon Mountain Rd",
+                "City": "Lincoln",
+                "Zip Code": "3251",
+                "Plus Code": "3949+PC Lincoln, New Hampshire",
+                "Lift Ticket Price": "$89",
+                "Rental Price": "$65",
+                "Total Trails": 73,
+                "Total Skiable Acres": 403,
+                "Vertical Drop": 2190,
+                "Highest Peak": 3065,
+                "Green Trails": 18.0,
+                "Blue Trails": 34.0,
+                "Black Trails": 19.0,
+                "Double Black Trails": 1.0,
+                "Terrain Parks": 6,
+                "Glades": 0,
+                "Night Skiing": "No",
+                "Indy Pass": false,
+                "Sources": "https://www.loonmtn.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.7934,
+                    43.7359
+                ]
+            },
+            "properties": {
+                "Name": "Tenney Mountain",
+                "Address": "151 Tenney Mountain Rd",
+                "City": "Plymouth",
+                "Zip Code": "3264",
+                "Plus Code": "P6WP+R5 Plymouth, New Hampshire",
+                "Lift Ticket Price": "$69",
+                "Rental Price": "$55",
+                "Total Trails": 50,
+                "Total Skiable Acres": 130,
+                "Vertical Drop": 1500,
+                "Highest Peak": 2350,
+                "Green Trails": 10.0,
+                "Blue Trails": 22.0,
+                "Black Trails": 18.0,
+                "Double Black Trails": 1.0,
+                "Terrain Parks": 1,
+                "Glades": 7,
+                "Night Skiing": "Yes",
+                "Indy Pass": true,
+                "Sources": "https://skitenney.com/about/experience/  https://tinyurl.com/mtzhncmf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.2393,
+                    44.6016
+                ]
+            },
+            "properties": {
+                "Name": "Wildcat Mountain",
+                "Address": "542 Route 16, Pinkham Notch",
+                "City": "Gorham",
+                "Zip Code": "3581",
+                "Plus Code": "7Q76+J7 Gorham, New Hampshire",
+                "Lift Ticket Price": "$109",
+                "Rental Price": "$66",
+                "Total Trails": 48,
+                "Total Skiable Acres": 225,
+                "Vertical Drop": 2112,
+                "Highest Peak": 4062,
+                "Green Trails": 9.6,
+                "Blue Trails": 22.56,
+                "Black Trails": 15.84,
+                "Double Black Trails": 0.0,
+                "Terrain Parks": 0,
+                "Glades": 8,
+                "Night Skiing": "No",
+                "Indy Pass": false,
+                "Sources": "https://www.skiwildcat.com/the-mountain/about-the-mountain/mountain-info.aspx "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.7977,
+                    43.164
+                ]
+            },
+            "properties": {
+                "Name": "Pats Peak",
+                "Address": "686 Flanders Rd",
+                "City": "Henniker",
+                "Zip Code": "3242",
+                "Plus Code": "5672+HW Henniker, New Hampshire",
+                "Lift Ticket Price": "$79",
+                "Rental Price": "$61",
+                "Total Trails": 28,
+                "Total Skiable Acres": 115,
+                "Vertical Drop": 770,
+                "Highest Peak": 1460,
+                "Green Trails": 14.0,
+                "Blue Trails": 6.0,
+                "Black Trails": 3.0,
+                "Double Black Trails": 5.0,
+                "Terrain Parks": 2,
+                "Glades": 9,
+                "Night Skiing": "Yes",
+                "Indy Pass": true,
+                "Sources": "https://www.patspeak.com/things-to-do/parks/terrain-parks/ https://www.indyskipass.com/our-resorts/pats-peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.1101,
+                    44.0565
+                ]
+            },
+            "properties": {
+                "Name": "Cranmore",
+                "Address": "239 Skimobile Rd",
+                "City": "North Conway",
+                "Zip Code": "3860",
+                "Plus Code": "3V4Q+HX North Conway, Conway, NH",
+                "Lift Ticket Price": "$79",
+                "Rental Price": "$78",
+                "Total Trails": 60,
+                "Total Skiable Acres": 170,
+                "Vertical Drop": 1200,
+                "Highest Peak": 2000,
+                "Green Trails": 18.0,
+                "Blue Trails": 27.0,
+                "Black Trails": 15.0,
+                "Double Black Trails": 0.0,
+                "Terrain Parks": 4,
+                "Glades": 6,
+                "Night Skiing": "Yes",
+                "Indy Pass": false,
+                "Sources": "https://cranmore.com/trail-map"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4602,
+                    44.2593
+                ]
+            },
+            "properties": {
+                "Name": "Bretton Woods",
+                "Address": "99 Ski Area Rd",
+                "City": "Bretton Woods (Carroll)",
+                "Zip Code": "3575",
+                "Plus Code": "7G5Q+PW Bretton Woods, Carroll, NH",
+                "Lift Ticket Price": "$99",
+                "Rental Price": "$69",
+                "Total Trails": 100,
+                "Total Skiable Acres": 464,
+                "Vertical Drop": 1500,
+                "Highest Peak": 3100,
+                "Green Trails": 25.0,
+                "Blue Trails": 40.0,
+                "Black Trails": 25.0,
+                "Double Black Trails": 10.0,
+                "Terrain Parks": 1,
+                "Glades": 34,
+                "Night Skiing": "Yes",
+                "Indy Pass": false,
+                "Sources": "https://www.onthesnow.com/new-hampshire/bretton-woods/trailmap https://www.brettonwoods.com/plan-visit/maps/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.3629,
+                    43.5411
+                ]
+            },
+            "properties": {
+                "Name": "Gunstock Mountain",
+                "Address": "719 Cherry Valley Rd",
+                "City": "Gilford",
+                "Zip Code": "3249",
+                "Plus Code": "GJRP+CR Gilford, New Hampshire",
+                "Lift Ticket Price": "$94",
+                "Rental Price": "$67",
+                "Total Trails": 49,
+                "Total Skiable Acres": 227,
+                "Vertical Drop": 1340,
+                "Highest Peak": 2300,
+                "Green Trails": 7.0,
+                "Blue Trails": 25.0,
+                "Black Trails": 15.0,
+                "Double Black Trails": 1.0,
+                "Terrain Parks": 2,
+                "Glades": 5,
+                "Night Skiing": "Yes",
+                "Indy Pass": false,
+                "Sources": "https://www.peakrankings.com/content/gunstock?srsltid=AfmBOoq25IoA-4gIBQZt9XGT1AugkE_qpyEcBfJ1jJQYCSlsumbtoxzm https://www.gunstock.com/about-us/resort-stats/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.2294,
+                    44.0828
+                ]
+            },
+            "properties": {
+                "Name": "Attitash",
+                "Address": "775 US-302",
+                "City": "Bartlett",
+                "Zip Code": "3812",
+                "Plus Code": "3QMC+46 Bartlett, New Hampshire",
+                "Lift Ticket Price": "$121",
+                "Rental Price": "$66",
+                "Total Trails": 76,
+                "Total Skiable Acres": 311,
+                "Vertical Drop": 1750,
+                "Highest Peak": 2350,
+                "Green Trails": 22.0,
+                "Blue Trails": 33.0,
+                "Black Trails": 20.0,
+                "Double Black Trails": 0.0,
+                "Terrain Parks": 3,
+                "Glades": 5,
+                "Night Skiing": "No",
+                "Indy Pass": false,
+                "Sources": "https://www.attitash.com/the-mountain/about-the-mountain/trail-map.aspx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.5279,
+                    43.9652
+                ]
+            },
+            "properties": {
+                "Name": "Waterville Valley Resort",
+                "Address": "1 Ski Area rd",
+                "City": "Waterville Valley",
+                "Zip Code": "3215",
+                "Plus Code": "XF8C+3R Waterville Valley, New Hampshire",
+                "Lift Ticket Price": "$90",
+                "Rental Price": "$59",
+                "Total Trails": 62,
+                "Total Skiable Acres": 265,
+                "Vertical Drop": 2020,
+                "Highest Peak": 4004,
+                "Green Trails": 9.0,
+                "Blue Trails": 40.0,
+                "Black Trails": 14.0,
+                "Double Black Trails": 3.0,
+                "Terrain Parks": 5,
+                "Glades": 6,
+                "Night Skiing": "Yes",
+                "Indy Pass": true,
+                "Sources": "https://static1.squarespace.com/static/62503704223b711a550b3e6f/t/6917892081bdec22f24afe40/1763150112862/Alpine+Trail+Map+With+Night+Ski_Brochure+Front_2526.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.0742,
+                    43.3136
+                ]
+            },
+            "properties": {
+                "Name": "Mount Sunapee",
+                "Address": "1398 New Hampshire Rte 103",
+                "City": "Newbury",
+                "Zip Code": "3255",
+                "Plus Code": "8W6M+2V Newbury, New Hampshire",
+                "Lift Ticket Price": "$121",
+                "Rental Price": "$73",
+                "Total Trails": 67,
+                "Total Skiable Acres": 233,
+                "Vertical Drop": 1510,
+                "Highest Peak": 2743,
+                "Green Trails": 19.0,
+                "Blue Trails": 31.0,
+                "Black Trails": 6.0,
+                "Double Black Trails": 9.0,
+                "Terrain Parks": 4,
+                "Glades": 5,
+                "Night Skiing": "No",
+                "Indy Pass": false,
+                "Sources": "https://www.mountsunapee.com/-/aemasset/sitecore/mount-sunapee/maps/20241211_MS_winter-trail_map_001.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.8292,
+                    43.4679
+                ]
+            },
+            "properties": {
+                "Name": "Ragged Mountain",
+                "Address": "620 Ragged Mountain Rd",
+                "City": " Danbury, ",
+                "Zip Code": "3230",
+                "Plus Code": "F5P5+53 Danbury, New Hampshire",
+                "Lift Ticket Price": "$69",
+                "Rental Price": "$61",
+                "Total Trails": 57,
+                "Total Skiable Acres": 250,
+                "Vertical Drop": 1250,
+                "Highest Peak": 2286,
+                "Green Trails": 17.0,
+                "Blue Trails": 15.0,
+                "Black Trails": 21.0,
+                "Double Black Trails": 4.0,
+                "Terrain Parks": 3,
+                "Glades": 17,
+                "Night Skiing": "No",
+                "Indy Pass": true,
+                "Sources": "https://www.skinh.com/resorts/ragged-mountain-resort https://www.raggedmountainresort.com/mountain-report-cams/#trails"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.0892,
+                    43.8679
+                ]
+            },
+            "properties": {
+                "Name": "King Pine",
+                "Address": "1251 Eaton Rd",
+                "City": " Madison",
+                "Zip Code": "3849",
+                "Plus Code": "VW96+58 Madison, New Hampshire",
+                "Lift Ticket Price": "$57",
+                "Rental Price": "$52",
+                "Total Trails": 17,
+                "Total Skiable Acres": 50,
+                "Vertical Drop": 350,
+                "Highest Peak": 850,
+                "Green Trails": 7.0,
+                "Blue Trails": 6.0,
+                "Black Trails": 2.0,
+                "Double Black Trails": 2.0,
+                "Terrain Parks": 2,
+                "Glades": 1,
+                "Night Skiing": "Yes",
+                "Indy Pass": false,
+                "Sources": "https://kingpine.resortstore.net/en/catalogue/full-day-ticket_2/?year=2026&month=1&day=8 https://www.kingpine.com/the-mountain/snow-report/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4418,
+                    43.0066
+                ]
+            },
+            "properties": {
+                "Name": "McIntyre Ski Area",
+                "Address": "50 Chalet Wy",
+                "City": "Manchester ",
+                "Zip Code": "3104",
+                "Plus Code": "2H45+J7 Manchester, New Hampshire",
+                "Lift Ticket Price": "$53",
+                "Rental Price": "$65",
+                "Total Trails": 11,
+                "Total Skiable Acres": 37,
+                "Vertical Drop": 200,
+                "Highest Peak": 510,
+                "Green Trails": 7.0,
+                "Blue Trails": 4.0,
+                "Black Trails": 0.0,
+                "Double Black Trails": 0.0,
+                "Terrain Parks": 1,
+                "Glades": 3,
+                "Night Skiing": "Yes",
+                "Indy Pass": false,
+                "Sources": "https://www.mcintyreskiarea.com/trail-map/ https://www.skistats.org/resort/McIntyre https://tinyurl.com/26yzpp79"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.8737,
+                    42.9984
+                ]
+            },
+            "properties": {
+                "Name": "Crotched Mountain Ski and Ride",
+                "Address": "615 Francestown Rd",
+                "City": "Bennington",
+                "Zip Code": "3442",
+                "Plus Code": "X4XG+9G Francestown, New Hampshire",
+                "Lift Ticket Price": "$88",
+                "Rental Price": "$57",
+                "Total Trails": 25,
+                "Total Skiable Acres": 100,
+                "Vertical Drop": 1000,
+                "Highest Peak": 2066,
+                "Green Trails": 7.0,
+                "Blue Trails": 10.0,
+                "Black Trails": 8.0,
+                "Double Black Trails": 0.0,
+                "Terrain Parks": 2,
+                "Glades": 4,
+                "Night Skiing": "Yes",
+                "Indy Pass": false,
+                "Sources": "https://www.crotchedmtn.com/the-mountain/about-the-mountain/trail-maps.aspx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.0995,
+                    43.7877
+                ]
+            },
+            "properties": {
+                "Name": "Darthmouth Skiway",
+                "Address": "39 Grafton Turnpike Rd",
+                "City": "Lyme Center",
+                "Zip Code": "3769",
+                "Plus Code": "QWQ2+35 Lyme Center, Lyme, NH",
+                "Lift Ticket Price": "$60",
+                "Rental Price": "$45",
+                "Total Trails": 28,
+                "Total Skiable Acres": 104,
+                "Vertical Drop": 968,
+                "Highest Peak": 1943,
+                "Green Trails": 6.0,
+                "Blue Trails": 14.0,
+                "Black Trails": 7.0,
+                "Double Black Trails": 1.0,
+                "Terrain Parks": 0,
+                "Glades": 1,
+                "Night Skiing": "No",
+                "Indy Pass": true,
+                "Sources": "https://dartmouthskiway.com/mountain-2/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.212,
+                    42.971
+                ]
+            },
+            "properties": {
+                "Name": "Granite Gorge",
+                "Address": "341 Route 9",
+                "City": "Keene",
+                "Zip Code": "3431",
+                "Plus Code": "XQCQ+95 Roxbury, New Hampshire",
+                "Lift Ticket Price": "$30",
+                "Rental Price": "$50",
+                "Total Trails": 19,
+                "Total Skiable Acres": 25,
+                "Vertical Drop": 250,
+                "Highest Peak": 390,
+                "Green Trails": 6.0,
+                "Blue Trails": 6.0,
+                "Black Trails": 5.0,
+                "Double Black Trails": 2.0,
+                "Terrain Parks": 7,
+                "Glades": 2,
+                "Night Skiing": "Yes",
+                "Indy Pass": false,
+                "Sources": "https://granitegorge.com/winter-trail-maps/# https://www.go-newhampshire.com/Granite-Gorge-Ski-Area/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.1803,
+                    43.6017
+                ]
+            },
+            "properties": {
+                "Name": "Whaleback Mountain",
+                "Address": "160 Whaleback Mountain Road",
+                "City": "Enfield",
+                "Zip Code": "3748",
+                "Plus Code": "Whaleback Mountain, 160 Whaleback Mountain Rd, Enfield, NH 03748",
+                "Lift Ticket Price": "$20",
+                "Rental Price": "$50",
+                "Total Trails": 29,
+                "Total Skiable Acres": 85,
+                "Vertical Drop": 700,
+                "Highest Peak": 1800,
+                "Green Trails": 8.0,
+                "Blue Trails": 11.0,
+                "Black Trails": 6.0,
+                "Double Black Trails": 5.0,
+                "Terrain Parks": 1,
+                "Glades": 6,
+                "Night Skiing": "Yes",
+                "Indy Pass": true,
+                "Sources": "https://www.whaleback.com/trail-report https://www.onthesnow.com/new-hampshire/whaleback-mountain/ski-resort"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.1638,
+                    44.1667
+                ]
+            },
+            "properties": {
+                "Name": "Black Mountain",
+                "Address": "373 Black Mountain Rd",
+                "City": "Jackson",
+                "Zip Code": "3846",
+                "Plus Code": "5R8P+MF Jackson, New Hampshire",
+                "Lift Ticket Price": "$62",
+                "Rental Price": "NULL",
+                "Total Trails": 45,
+                "Total Skiable Acres": 140,
+                "Vertical Drop": 1100,
+                "Highest Peak": 2350,
+                "Green Trails": 16.0,
+                "Blue Trails": 20.0,
+                "Black Trails": 15.0,
+                "Double Black Trails": 8.0,
+                "Terrain Parks": 0,
+                "Glades": 11,
+                "Night Skiing": "No",
+                "Indy Pass": true,
+                "Sources": "https://www.blackmt.com/trail-map"
+            }
+        }
+    ]
+}
