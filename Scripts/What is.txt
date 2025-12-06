@@ -1,7 +1,8 @@
-This folder is for the python that I wrote to create this website. 
-While this site is a static site, to create the maps I utlized Python,
-and I wanted to showcase the python work I had to do. 
-Most of the work was done in the the PyCharm IDE and then moved into VSCode.
+This folder is for the python and SQL that I wrote to create this website. 
+While this site is a static site, to create the maps I utlized Python, 
+and for the Querys in ArcGisPro I utilized ArcGisPro's dialect of SQL
+and I wanted to showcase the python work I had to do. Most of the work 
+was done in the the PyCharm IDE and then moved into VSCode.
 
 
 
