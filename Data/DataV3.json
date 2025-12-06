@@ -22,7 +22,7 @@
         "Zip Code": "3580",
         "Plus Code": "5842+HJ Franconia, New Hampshire",
         "Lat": "44.1565",
-        "Long": "71.6984",
+        "Long": "-71.6984",
         "Sources": "https://www.cannonmt.com/mountain-stats https://www.cannonmt.com/trails-lifts"
     },
     {
@@ -48,7 +48,7 @@
         "Zip Code": "3251",
         "Plus Code": "3949+PC Lincoln, New Hampshire",
         "Lat": "44.036",
-        "Long": "71.6214",
+        "Long": "-71.6214",
         "Sources": "https://www.loonmtn.com/"
     },
     {
@@ -74,7 +74,7 @@
         "Zip Code": "3264",
         "Plus Code": "P6WP+R5 Plymouth, New Hampshire",
         "Lat": "43.7359",
-        "Long": "71.7934",
+        "Long": "-71.7934",
         "Sources": "https://skitenney.com/about/experience/  https://tinyurl.com/mtzhncmf"
     },
     {
@@ -100,7 +100,7 @@
         "Zip Code": "3581",
         "Plus Code": "7Q76+J7 Gorham, New Hampshire",
         "Lat": "44.6016",
-        "Long": "71.2393",
+        "Long": "-71.2393",
         "Sources": "https://www.skiwildcat.com/the-mountain/about-the-mountain/mountain-info.aspx "
     },
     {
@@ -126,7 +126,7 @@
         "Zip Code": "3242",
         "Plus Code": "5672+HW Henniker, New Hampshire",
         "Lat": "43.164",
-        "Long": "71.7977",
+        "Long": "-71.7977",
         "Sources": "https://www.patspeak.com/things-to-do/parks/terrain-parks/ https://www.indyskipass.com/our-resorts/pats-peak"
     },
     {
@@ -152,7 +152,7 @@
         "Zip Code": "3860",
         "Plus Code": "3V4Q+HX North Conway, Conway, NH",
         "Lat": "44.0565",
-        "Long": "71.1101",
+        "Long": "-71.1101",
         "Sources": "https://cranmore.com/trail-map"
     },
     {
@@ -178,7 +178,7 @@
         "Zip Code": "3575",
         "Plus Code": "7G5Q+PW Bretton Woods, Carroll, NH",
         "Lat": "44.2593",
-        "Long": "71.4602",
+        "Long": "-71.4602",
         "Sources": "https://www.onthesnow.com/new-hampshire/bretton-woods/trailmap https://www.brettonwoods.com/plan-visit/maps/"
     },
     {
@@ -204,7 +204,7 @@
         "Zip Code": "3249",
         "Plus Code": "GJRP+CR Gilford, New Hampshire",
         "Lat": "43.5411",
-        "Long": "71.3629",
+        "Long": "-71.3629",
         "Sources": "https://www.peakrankings.com/content/gunstock?srsltid=AfmBOoq25IoA-4gIBQZt9XGT1AugkE_qpyEcBfJ1jJQYCSlsumbtoxzm https://www.gunstock.com/about-us/resort-stats/"
     },
     {
@@ -230,7 +230,7 @@
         "Zip Code": "3812",
         "Plus Code": "3QMC+46 Bartlett, New Hampshire",
         "Lat": "44.0828",
-        "Long": "71.2294",
+        "Long": "-71.2294",
         "Sources": "https://www.attitash.com/the-mountain/about-the-mountain/trail-map.aspx"
     },
     {
@@ -256,7 +256,7 @@
         "Zip Code": "3215",
         "Plus Code": "XF8C+3R Waterville Valley, New Hampshire",
         "Lat": "43.9652",
-        "Long": "71.5279",
+        "Long": "-71.5279",
         "Sources": "https://static1.squarespace.com/static/62503704223b711a550b3e6f/t/6917892081bdec22f24afe40/1763150112862/Alpine+Trail+Map+With+Night+Ski_Brochure+Front_2526.jpg"
     },
     {
@@ -282,7 +282,7 @@
         "Zip Code": "3255",
         "Plus Code": "8W6M+2V Newbury, New Hampshire",
         "Lat": "43.3136",
-        "Long": "72.0742",
+        "Long": "-72.0742",
         "Sources": "https://www.mountsunapee.com/-/aemasset/sitecore/mount-sunapee/maps/20241211_MS_winter-trail_map_001.pdf"
     },
     {
@@ -308,7 +308,7 @@
         "Zip Code": "3230",
         "Plus Code": "F5P5+53 Danbury, New Hampshire",
         "Lat": "43.4679",
-        "Long": "71.8292",
+        "Long": "-71.8292",
         "Sources": "https://www.skinh.com/resorts/ragged-mountain-resort https://www.raggedmountainresort.com/mountain-report-cams/#trails"
     },
     {
@@ -334,7 +334,7 @@
         "Zip Code": "3849",
         "Plus Code": "VW96+58 Madison, New Hampshire",
         "Lat": "43.8679",
-        "Long": "71.0892",
+        "Long": "-71.0892",
         "Sources": "https://kingpine.resortstore.net/en/catalogue/full-day-ticket_2/?year=2026&month=1&day=8 https://www.kingpine.com/the-mountain/snow-report/"
     },
     {
@@ -360,7 +360,7 @@
         "Zip Code": "3104",
         "Plus Code": "2H45+J7 Manchester, New Hampshire",
         "Lat": "43.0066",
-        "Long": "71.4418",
+        "Long": "-71.4418",
         "Sources": "https://www.mcintyreskiarea.com/trail-map/ https://www.skistats.org/resort/McIntyre https://tinyurl.com/26yzpp79"
     },
     {
@@ -386,7 +386,7 @@
         "Zip Code": "3442",
         "Plus Code": "X4XG+9G Francestown, New Hampshire",
         "Lat": "42.9984",
-        "Long": "71.8737",
+        "Long": "-71.8737",
         "Sources": "https://www.crotchedmtn.com/the-mountain/about-the-mountain/trail-maps.aspx"
     },
     {
@@ -412,7 +412,7 @@
         "Zip Code": "3769",
         "Plus Code": "QWQ2+35 Lyme Center, Lyme, NH",
         "Lat": "43.7877",
-        "Long": "72.0995",
+        "Long": "-72.0995",
         "Sources": "https://dartmouthskiway.com/mountain-2/"
     },
     {
@@ -438,7 +438,7 @@
         "Zip Code": "3431",
         "Plus Code": "XQCQ+95 Roxbury, New Hampshire",
         "Lat": "42.971",
-        "Long": "72.212",
+        "Long": "-72.212",
         "Sources": "https://granitegorge.com/winter-trail-maps/# https://www.go-newhampshire.com/Granite-Gorge-Ski-Area/"
     },
     {
@@ -464,7 +464,7 @@
         "Zip Code": "3748",
         "Plus Code": "Whaleback Mountain, 160 Whaleback Mountain Rd, Enfield, NH 03748",
         "Lat": "43.6017",
-        "Long": "72.1803",
+        "Long": "-72.1803",
         "Sources": "https://www.whaleback.com/trail-report https://www.onthesnow.com/new-hampshire/whaleback-mountain/ski-resort"
     },
     {
@@ -490,7 +490,7 @@
         "Zip Code": "3846",
         "Plus Code": "5R8P+MF Jackson, New Hampshire",
         "Lat": "44.1667",
-        "Long": "71.1638",
+        "Long": "-71.1638",
         "Sources": "https://www.blackmt.com/trail-map"
     }
 ]
